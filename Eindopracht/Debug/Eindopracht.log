@@ -1,0 +1,10 @@
+﻿  Eindopracht.cpp
+  GameEngine.cpp
+  ProcessableObject.cpp
+  Generating Code...
+RigidBody.obj : error LNK2005: "public: virtual void __thiscall ProcessableObject::process(void)" (?process@ProcessableObject@@UAEXXZ) already defined in ProcessableObject.obj
+GameEngine.obj : error LNK2001: unresolved external symbol "private: static class std::vector<class ProcessableObject *,class std::allocator<class ProcessableObject *> > GameEngine::processableObjects" (?processableObjects@GameEngine@@0V?$vector@PAVProcessableObject@@V?$allocator@PAVProcessableObject@@@std@@@std@@A)
+C:\Overig\SFML-2.5.1\lib\sfml-graphics.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Overig\SFML-2.5.1\lib\sfml-window.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Overig\SFML-2.5.1\lib\sfml-system.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\thoma\source\repos\Eindopracht\Debug\Eindopracht.exe : fatal error LNK1120: 1 unresolved externals

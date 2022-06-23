@@ -1,0 +1,65 @@
+﻿  CollisionBody.cpp
+  DrawableObject.cpp
+  Eindopracht.cpp
+  Character.cpp
+  Enemy.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\Enemy.cpp(10,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\Enemy.cpp(13,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  EnemySpawner.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\EnemySpawner.cpp(15,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameEngine.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(113,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(113,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(114,132): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(114,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(115,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\GameEngine.cpp(115,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  KeyTrigger.cpp
+  LevelCounter.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\LevelCounter.cpp(9,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\LevelCounter.cpp(11,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Object2D.cpp
+  Player.cpp
+  ProcessableObject.cpp
+  RectangleObject.cpp
+  RigidBody.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\RigidBody.cpp(24,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\RigidBody.cpp(24,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Text2D.cpp
+  Vector2Custom.cpp
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\Vector2Custom.cpp(29,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\Eindopracht\Vector2Custom.cpp(34,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  541 of 549 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    44 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Eindopracht.vcxproj -> C:\Users\thoma\OneDrive\Documenten\GitHub\GDEV-Eindopdracht\x64\Release\Eindopracht.exe
